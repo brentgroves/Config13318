@@ -14,5 +14,6 @@
   "AlbionPassword": "6afff48-ba19-",
   "ProdWSDL": "C:/Users/bgroves/srcnode/Config13318/plex-prod.wsdl",
   "TestWSDL": "C:/Users/bgroves/srcnode/Config13318/plex-test.wsdl",
-  "WebSocket": "http://localhost:3030"
+  "WebSocket": "http://10.1.2.37:3030",
+  "PORT": "80"
 }
