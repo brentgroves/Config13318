@@ -1,8 +1,8 @@
 {
   "OPCUA": "opc.tcp://10.1.2.37:49321",
-  "MQTT": "mqtt://10.1.2.37",
+  "MQTT": "mqtt://localhost",
   "Database": {
-    "host": "10.1.2.37",
+    "host": "localhost",
     "user": "brent",
     "password": "JesusLives1!",
     "insecureAuth": true,
