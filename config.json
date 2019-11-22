@@ -15,6 +15,8 @@
   "ProdWSDL": "../Config13318/plex-prod.wsdl",
   "TestWSDL": "../Config13318/plex-test.wsdl",
   "WebSocket": "http://localhost:3030",
+  "KepSock13318URI": "http://localhost:3040",
+  "KepSock13318Port": "3040",
   "PORT": "80",
   "Nid":[
   {
