@@ -14,11 +14,10 @@
   "AlbionPassword": "6afff48-ba19-",
   "ProdWSDL": "../Config13318/plex-prod.wsdl",
   "TestWSDL": "../Config13318/plex-test.wsdl",
-  "WebSocket": "http://localhost:3030",
-  "KepSock13318URI": "http://localhost:3040",
-  "KepSock13318Port": "3040",
+  "BPGServicesURI": "http://localhost:3030",
+  "BPGServicesPort": "3030",
   "PORT": "80",
-  "Nid":[
+  "NodeId":[
   {
     "PCN": "Avilla",
     "NodeId": "ns=2;s=CNC362.CNC362.Cycle_Counter_Shift_SL",
