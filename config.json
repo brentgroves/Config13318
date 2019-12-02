@@ -20,12 +20,8 @@
   "NodeId":[
   {
     "PCN": "Avilla",
-    "NodeId": "ns=2;s=CNC362.CNC362.Cycle_Counter_Shift_SL",
-    "WorkCenter": "61314"
-  },
-  {
-    "PCN": "Avilla",
     "NodeId": "ns=2;s=CNC422.CNC422.Cycle_Counter_Shift_SL",
+    "CNC": "422",
     "WorkCenter": "61420"
   }
 ]  
